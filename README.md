@@ -1,4 +1,12 @@
+
+<div style="text-align: center;">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Albert+Ghazaly" alt="Typing SVG" />
+    </a>
+</div>
+
 <div align="center">
+
   <a href="https://www.linkedin.com/in/albert-ghazaly-598567284/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
