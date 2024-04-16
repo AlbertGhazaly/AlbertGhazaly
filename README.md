@@ -51,6 +51,7 @@
 </div>
 
 ###
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/AlbertGhazaly/AlbertGhazaly/output/github-contribution-grid-snake.svg" />
 
 <img src="https://raw.githubusercontent.com/AlbertGhazaly/AlbertGhazaly/output/snake.svg" alt="Snake animation" />
 
